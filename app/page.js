@@ -4,7 +4,8 @@ import styles from './page.module.css'
 export default function Home() {
   return (
     <main className={styles.main}>
-      <h1>La mejor</h1>
+      <h1>La msejor</h1>
     </main>
   )
 }
+  
